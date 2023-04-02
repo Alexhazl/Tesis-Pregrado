@@ -100,7 +100,7 @@ Descrip(P1[,c(4:6)])
 Descrip(P2[,c(4:6)])
 Descrip(P3[,c(4:6)])
 
-setwd("C:/Users/alex9/Desktop/Carpetas/Carpetas/Codigos/Shapes")
+setwd("Shapes")
 map1<-readOGR("VLP.shp")
 map2<-readOGR("CQM.shp")
 map3<-readOGR("ATC.shp")
